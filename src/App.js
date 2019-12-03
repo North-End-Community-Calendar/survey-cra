@@ -10,7 +10,7 @@ import OrganizerSurvey from './OrganizerSurvey';
 
 export default function App() {
   return (
-    <Container maxWidth="md">
+    <Container maxWidth="sm">
       <Box my={4}>
           <Typography variant="h4" component="h1" gutterBottom align="center">
             Thank you for taking our survey on organizing and attending events in Detroit! 
